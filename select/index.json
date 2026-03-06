@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "AKUMA",
+  "base_artist": "常闇トワ",
+  "createdAt": "2026-03-06T12:12:07.630123Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Second Coming [Prod. Rare Akuma]",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/01_Second_Coming_[Prod._Rare_Akuma]_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Akuma no Ko",
+      "artist": "Ai Higuchi",
+      "has_synced": true,
+      "path": "select/02_Akuma_no_Ko_Ai_Higuchi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Akuma no Ko",
+      "artist": "Higuchi Ai",
+      "has_synced": true,
+      "path": "select/03_Akuma_no_Ko_Higuchi_Ai.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Akuma (feat. Rachel Mcalpine)",
+      "artist": "Alex feat. Tokyo Rose & Rachel Mcalpine",
+      "has_synced": true,
+      "path": "select/04_Akuma_(feat._Rachel_Mcalpine)_Alex_feat._Tokyo_Rose_&_Rachel_Mcalpine.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "AKUMA",
+      "artist": "ALEX feat. Rachel McAlpine",
+      "has_synced": true,
+      "path": "select/05_AKUMA_ALEX_feat._Rachel_McAlpine.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "AKUMA",
+      "artist": "常闇トワ",
+      "has_synced": true,
+      "path": "select/06_AKUMA_常闇トワ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Akuma Afterglow",
+      "artist": "Soilwork",
+      "has_synced": true,
+      "path": "select/07_The_Akuma_Afterglow_Soilwork.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Akuma",
+      "artist": "Gaijin",
+      "has_synced": true,
+      "path": "select/08_Akuma_Gaijin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Akuma No Kuma",
+      "artist": "Sunn O))) & Boris",
+      "has_synced": false,
+      "path": "select/09_Akuma_No_Kuma_Sunn_O)))_&_Boris.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Akuma",
+      "artist": "Macaroom",
+      "has_synced": true,
+      "path": "select/10_Akuma_Macaroom.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Akuma no Ko",
+      "artist": "Higuchi Ai",
+      "has_synced": true,
+      "path": "select/11_Akuma_no_Ko_Higuchi_Ai.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Akuma no Ko",
+      "artist": "Ai Higuchi",
+      "has_synced": true,
+      "path": "select/12_Akuma_no_Ko_Ai_Higuchi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Akuma no Ko",
+      "artist": "Ai Higuchi",
+      "has_synced": true,
+      "path": "select/13_Akuma_no_Ko_Ai_Higuchi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "$uicider (Prod. by Rare Akuma) [Bonus Track]",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/14_$uicider_(Prod._by_Rare_Akuma)_[Bonus_Track]_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Akuma no Ko",
+      "artist": "Ai Higuchi",
+      "has_synced": true,
+      "path": "select/15_Akuma_no_Ko_Ai_Higuchi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Akuma no Ko",
+      "artist": "Sati Akura",
+      "has_synced": false,
+      "path": "select/16_Akuma_no_Ko_Sati_Akura.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Akuma no Ko - English ver.",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/17_Akuma_no_Ko_-_English_ver._Sati_Akura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AKUMA",
+      "artist": "常闇トワ",
+      "has_synced": false,
+      "path": "select/pl_01_AKUMA_常闇トワ.txt"
+    }
+  ]
+}
